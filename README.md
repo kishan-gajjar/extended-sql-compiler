@@ -1,4 +1,4 @@
 # Extended-SQL-Compiler
-Limited functionality SQL compiler based on Java for faster execution of Data mining queries
+This is limited functionality SQL compiler to remove tight coupling between aggregates functions and group by clause, resulting in faster execution of data mining queries
 
 Below are the steps to run this project

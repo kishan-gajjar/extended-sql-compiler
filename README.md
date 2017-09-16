@@ -1,4 +1,4 @@
-# extended-sql-compiler
+# Extended SQL Compiler
 This is limited functionality SQL compiler to remove tight coupling between aggregates functions and group by clause, resulting in faster execution of data mining queries
 
 The software generates Java files based on the input file which runs as separate project. This generated Java files when runned produces the desired sql output table. The preferred input to software is .txt file with specific format as discussed in section # Input file explained
